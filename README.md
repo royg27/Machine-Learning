@@ -1,3 +1,2 @@
 # Machine-Learning
-resources and material
-projects
+resources, material and projects
