@@ -2,12 +2,14 @@ matrix methods for ML - https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUH
 
 udemy DNN with pytorch - https://classroom.udacity.com/courses/ud188
 
-Stanford CNN for vision - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+** Stanford CNN for vision - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 linear algebra essentials 3blue1brown - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 math for ML - book - https://mml-book.github.io/book/mml-book.pdf
 
-CNN specialization Andrew NG - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+** CNN specialization Andrew NG - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
 
-deeplearning.io open courses - https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
+** deeplearning.io open courses - https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
+
+ML books - https://skymind.ai/ai-book?rdt_cid=2853535287357815235&utm_campaign=ai-ebook&utm_content=ai-ebook-overview&utm_medium=paid&utm_source=reddit
