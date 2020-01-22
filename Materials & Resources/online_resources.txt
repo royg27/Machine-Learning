@@ -13,3 +13,7 @@ math for ML - book - https://mml-book.github.io/book/mml-book.pdf
 ** deeplearning.io open courses - https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
 
 ML books - https://skymind.ai/ai-book?rdt_cid=2853535287357815235&utm_campaign=ai-ebook&utm_content=ai-ebook-overview&utm_medium=paid&utm_source=reddit
+
+NLP - https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&fbclid=IwAR1WvLWSMtbDGAWetNbzOYV-ZVU03ydu9NbdiL_lPCe1Q9YPlRnPQl6bGNU
+
+Reinforcement Learning by David Silv - https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&fbclid=IwAR1YjY98xCLgAbNFcy5mgfUBt_iPdWYoiKIAGbBOx0KjiOLK0N4uVdZ2xiE
