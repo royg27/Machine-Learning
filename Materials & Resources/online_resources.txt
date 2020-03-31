@@ -4,7 +4,7 @@ matrix methods for ML - https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUH
 
 udemy DNN with pytorch - https://classroom.udacity.com/courses/ud188
 
-** Stanford CNN for vision - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+**[V] Stanford CNN for vision - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 fast.ai - https://course.fast.ai/videos/?lesson=1
 
