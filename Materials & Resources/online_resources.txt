@@ -23,3 +23,5 @@ ML books - https://skymind.ai/ai-book?rdt_cid=2853535287357815235&utm_campaign=a
 NLP - https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&fbclid=IwAR1WvLWSMtbDGAWetNbzOYV-ZVU03ydu9NbdiL_lPCe1Q9YPlRnPQl6bGNU
 
 Reinforcement Learning by David Silv - https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&fbclid=IwAR1YjY98xCLgAbNFcy5mgfUBt_iPdWYoiKIAGbBOx0KjiOLK0N4uVdZ2xiE
+
+DeepMind course - https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
